@@ -1,5 +1,7 @@
 {
-  "geminiKeys": [],
+  "geminiKeys": [
+    "GitHub yazma hatası (409): { \"message\": \"Repository rule violations found\\n\\nSecret detected in content\\n\\n\", \"metadata\": { \"secret_scanning\": { \"bypass_placeholders\": [ { \"pl"
+  ],
   "activeKeyIndex": 0,
   "model": "gemini-2.5-flash"
 }
